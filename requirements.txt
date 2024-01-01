@@ -1,6 +1,6 @@
 streamlit
 scikit-learn
 numpy
-opencv-python
+opencv-python-headless
 matplotlib
 Pillow
